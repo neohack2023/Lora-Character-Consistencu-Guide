@@ -1,1 +1,1 @@
-# Lora-Character-Consistencu-Guide
+# Lora-Character-Consistencu-Guide\n## Prompt Architect\n\nA simple script to generate Riffusion prompts.\n\nUsage:\n```\npython prompt_architect.py free "jungle beats"\npython prompt_architect.py selective "Strobe by Deadmau5"\npython prompt_architect.py expansive https://youtu.be/example dreamy vocals\n```\n

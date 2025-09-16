@@ -1,0 +1,23 @@
+body {
+  background: black;
+  color: #f8f8f2;
+  font-family: monospace;
+  text-align: center;
+}
+#game {
+  image-rendering: pixelated;
+  width: 640px;
+  height: 400px;
+  display: block;
+  margin: 20px auto;
+  border: 2px solid #444;
+}
+#ui {
+  width: 640px;
+  margin: 0 auto;
+}
+button {
+  margin: 4px;
+  font-family: inherit;
+  font-size: 16px;
+}
